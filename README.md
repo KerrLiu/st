@@ -5,6 +5,7 @@ Make according to Luke Smith configuration
 
 ## keybind
 
+
 |     hotkey    |     info      |
 |-------:-------|-------:-------|
 |    MODKEY+c   |   clipcopy    |
