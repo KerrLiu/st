@@ -1,6 +1,7 @@
 # Simple Terminal (kerr build)
 
-Make according to Luke Smith configuration
++ Make according to Luke Smith configuration
++ Version:0.8.4
 
 
 ## keybind
