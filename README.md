@@ -7,7 +7,7 @@ Make according to Luke Smith configuration
 
 
 |     hotkey    |     info      |
-|-------:-------|-------:-------|
+|---------------|---------------|
 |    MODKEY+c   |   clipcopy    |
 |    MODKEY+v   |   clippaste   |
 |    MODKEY+p   |   selpaste    |
